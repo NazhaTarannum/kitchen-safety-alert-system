@@ -1,0 +1,5 @@
+# Ignore real credentials
+firmware/secrets.h
+
+# Ignore macOS junk files
+.DS_Store
